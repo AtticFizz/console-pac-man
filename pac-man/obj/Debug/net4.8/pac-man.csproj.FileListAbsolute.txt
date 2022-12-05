@@ -1,0 +1,4 @@
+Y:\Current\Codes\C#\pac-man\obj\Debug\net4.8\pac-man.csprojAssemblyReference.cache
+Y:\Current\Codes\C#\pac-man\obj\Debug\net4.8\pac-man.AssemblyInfoInputs.cache
+Y:\Current\Codes\C#\pac-man\obj\Debug\net4.8\pac-man.AssemblyInfo.cs
+Y:\Current\Codes\C#\pac-man\obj\Debug\net4.8\pac-man.csproj.CoreCompileInputs.cache

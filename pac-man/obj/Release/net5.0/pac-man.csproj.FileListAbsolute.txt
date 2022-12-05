@@ -1,0 +1,16 @@
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.exe
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.deps.json
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.runtimeconfig.json
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.runtimeconfig.dev.json
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.dll
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\ref\pac-man.dll
+Y:\Current\Codes\C#\pac-man\bin\Release\net5.0\pac-man.pdb
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.csprojAssemblyReference.cache
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.AssemblyInfoInputs.cache
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.AssemblyInfo.cs
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.csproj.CoreCompileInputs.cache
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.dll
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\ref\pac-man.dll
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.pdb
+Y:\Current\Codes\C#\pac-man\obj\Release\net5.0\pac-man.genruntimeconfig.cache
